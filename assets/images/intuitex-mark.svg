@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Intuitex AI Solutions">
+<defs>
+  <linearGradient id="g" x1="22" y1="20" x2="140" y2="145" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#5AC8FA"/>
+    <stop offset=".34" stop-color="#2D7DFF"/>
+    <stop offset=".70" stop-color="#4D57EA"/>
+    <stop offset="1" stop-color="#2C2A83"/>
+  </linearGradient>
+  <radialGradient id="s" cx="0" cy="0" r="1" gradientTransform="translate(46 34) rotate(33) scale(80)">
+    <stop stop-color="#fff" stop-opacity=".58"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="160" height="160" rx="42" fill="#071124"/>
+<rect x="12" y="12" width="136" height="136" rx="35" fill="url(#g)"/>
+<ellipse cx="46" cy="34" rx="50" ry="31" fill="url(#s)"/>
+<path d="M53 45v70M107 45v70M53 80h54" stroke="#fff" stroke-width="11" stroke-linecap="round"/>
+<path d="M69 113c11-12 23-20 38-25" fill="none" stroke="#B8F0FF" stroke-width="7" stroke-linecap="round"/>
+<circle cx="119" cy="42" r="8" fill="#fff"/>
+</svg>

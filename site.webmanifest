@@ -1,0 +1,15 @@
+{
+  "name": "Intuitex AI Solutions",
+  "short_name": "Intuitex AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "icons": [
+    {
+      "src": "/assets/images/intuitex-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
