@@ -49,8 +49,8 @@
       window.dataLayer = window.dataLayer || [];
       window.dataLayer.push({
         event:"google_play_outbound_click",
-        app:"ai-essay-writer-chat",
-        package:"com.intuitex.ai.writer",
+        app:a.dataset.app || "ai-essay-writer-chat",
+        package:a.dataset.package || "com.intuitex.ai.writer",
         destination:a.href
       });
     });
